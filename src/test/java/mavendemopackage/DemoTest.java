@@ -10,6 +10,7 @@ public class DemoTest extends BaseClass
 	{
 	//1st pull
 		//2nd push
+		//branch smoke
 		/*WebDriver driver;
 		WebDriverManager.chromedriver().setup();
 		driver=new ChromeDriver();
