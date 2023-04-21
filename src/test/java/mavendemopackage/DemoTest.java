@@ -9,6 +9,7 @@ public class DemoTest extends BaseClass
 	public void demotest() throws Throwable 
 	{
 	//1st pull
+		//2nd push
 		/*WebDriver driver;
 		WebDriverManager.chromedriver().setup();
 		driver=new ChromeDriver();
