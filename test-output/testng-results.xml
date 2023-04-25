@@ -2,16 +2,48 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-19T19:47:43 IST" name="Default suite" finished-at="2023-04-19T19:47:47 IST" duration-ms="4251">
+  <suite started-at="2023-04-25T12:40:00 IST" name="Suite" finished-at="2023-04-25T12:40:00 IST" duration-ms="44">
     <groups>
     </groups>
-    <test started-at="2023-04-19T19:47:43 IST" name="Default test" finished-at="2023-04-19T19:47:47 IST" duration-ms="4251">
-      <class name="mavendemopackage.Fetchdatafrommaven">
-        <test-method signature="parameters()[pri:0, instance:mavendemopackage.Fetchdatafrommaven@cad498c]" started-at="2023-04-19T19:47:43 IST" name="parameters" finished-at="2023-04-19T19:47:47 IST" duration-ms="4182" status="PASS">
+    <test started-at="2023-04-25T12:40:00 IST" name="Test" finished-at="2023-04-25T12:40:00 IST" duration-ms="44">
+      <class name="mavendemopackage.DemoTest">
+        <test-method is-config="true" signature="BS()[pri:0, instance:mavendemopackage.DemoTest@53fdffa1]" started-at="2023-04-25T12:40:00 IST" name="BS" finished-at="2023-04-25T12:40:00 IST" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- parameters -->
-      </class> <!-- mavendemopackage.Fetchdatafrommaven -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- BS -->
+        <test-method is-config="true" signature="BT()[pri:0, instance:mavendemopackage.DemoTest@53fdffa1]" started-at="2023-04-25T12:40:00 IST" name="BT" finished-at="2023-04-25T12:40:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method is-config="true" signature="BC()[pri:0, instance:mavendemopackage.DemoTest@53fdffa1]" started-at="2023-04-25T12:40:00 IST" name="BC" finished-at="2023-04-25T12:40:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:mavendemopackage.DemoTest@53fdffa1]" started-at="2023-04-25T12:40:00 IST" name="BM" finished-at="2023-04-25T12:40:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="demotest()[pri:0, instance:mavendemopackage.DemoTest@53fdffa1]" started-at="2023-04-25T12:40:00 IST" name="demotest" finished-at="2023-04-25T12:40:00 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demotest -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:mavendemopackage.DemoTest@53fdffa1]" started-at="2023-04-25T12:40:00 IST" name="AM" finished-at="2023-04-25T12:40:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="AC()[pri:0, instance:mavendemopackage.DemoTest@53fdffa1]" started-at="2023-04-25T12:40:00 IST" name="AC" finished-at="2023-04-25T12:40:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+        <test-method is-config="true" signature="AT()[pri:0, instance:mavendemopackage.DemoTest@53fdffa1]" started-at="2023-04-25T12:40:00 IST" name="AT" finished-at="2023-04-25T12:40:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+        <test-method is-config="true" signature="AS()[pri:0, instance:mavendemopackage.DemoTest@53fdffa1]" started-at="2023-04-25T12:40:00 IST" name="AS" finished-at="2023-04-25T12:40:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS -->
+      </class> <!-- mavendemopackage.DemoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
